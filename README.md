@@ -29,3 +29,4 @@ source venv/bin/activate       # macOS / Linux
 
 pip install -r requirements.txt
 jupyter lab
+```

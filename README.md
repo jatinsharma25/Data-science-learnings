@@ -16,8 +16,6 @@ A curated collection of machine learning algorithms built from scratch, statisti
 
 ## 🛠 Local Setup
 
-## 🛠 Local Setup
-
 Clone the repository and install dependencies locally:
 
 ```bash
